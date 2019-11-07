@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint1
+  - Waypoint2
+  - Waypoint3
+  - Image1
+  - Image2
+  - Image3
+  - Arrow1
+  - NPC1
+  - Waypoint4
+  - Waypoint5
+  - Waypoint6
+  - Waypoint7
+  - Waypoint8
+  - Waypoint9
+  - Destination1
+  - Destination2
+  - Destination3
+  - Image4
+  - Image5
+  - Image6
+  - Image7
+  - Image8
+  - Image9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
